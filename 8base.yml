@@ -1,0 +1,6 @@
+functions:
+  sampleResolver:
+    type: resolver
+    handler:
+      code: src/resolvers/sampleResolver/handler.ts
+    schema: src/resolvers/sampleResolver/schema.graphql

@@ -1,0 +1,5 @@
+
+
+extend type ExampleMutation {
+    sampleResolver(payload: JSON): SuccessResponse
+}
